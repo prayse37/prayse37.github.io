@@ -16,3 +16,7 @@ console.log("Hello World!");
 ```bash
 ls
 ```
+
+```php
+echo "Hello World";
+```
